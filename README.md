@@ -1,1 +1,1 @@
-# Improve-Code-Skill
+This repository is dedicated to storing the exercises I've practiced to enhance my problem-solving skills. The challenges are sourced from various platforms such as Codeforces, HackerRank, VNOI, etc. Each solution is carefully organized and presented for easy navigation and readability. 🚀🧠💻
